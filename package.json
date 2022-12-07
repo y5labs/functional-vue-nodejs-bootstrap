@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/tcoats/functional-vue-nodejs-bootstrap#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "compression": "^1.7.4",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "http-mutunga": "^1.0.0",
     "injectinto": "^1.6.0",
     "odo-hub": "^4.0.3",
